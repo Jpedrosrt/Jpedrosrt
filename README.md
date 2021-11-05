@@ -24,4 +24,4 @@
   <a href = "mailto:j0310pedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.beecrowd.com.br/judge/pt/profile/536786" target="_blank"><img src="https://img.shields.io/badge/-beecrowd-blueviolet?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank"></a>    
 
-    
+![](https://visitor-badge.glitch.me/badge?page_id=Jpedrosrt.Jpedrosrt)
