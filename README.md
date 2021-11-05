@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/757370896469196884/906204919902638140/Vibe.gif">
 
-<!--
-**Jpedrosrt/Jpedrosrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi  I'm João Pedro
+## Thanks for visiting my profile, and have a nice week. 😃
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: I Like to play Dark Souls
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div align="center">
+  <a href="https://github.com/Jpedrosrt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedrosrt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrosrt&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <br/>
+    
+##
+    
+<div align = "center"> 
+  <a href="https://www.instagram.com/jpedro.srt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:j0310pedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.beecrowd.com.br/judge/pt/profile/536786" target="_blank"><img src="https://img.shields.io/badge/-beecrowd-blueviolet?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank"></a>    
+
+    
