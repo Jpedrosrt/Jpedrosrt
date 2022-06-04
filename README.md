@@ -4,7 +4,7 @@
 ## Thanks for visiting my profile, and have a nice week. 😃
 
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: I Like to play Dark Souls
+- ⚡ Fun fact: I Like to play Bloodborne
 
   <div align="center">
   <a href="https://github.com/Jpedrosrt">
